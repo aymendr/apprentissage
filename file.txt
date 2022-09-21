@@ -1,5 +1,2 @@
 Bonjour tout le monde
 une deuxième ligne
-
-
-nouveau code dans file.txt
